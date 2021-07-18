@@ -12,6 +12,7 @@ REST API implimentation using PHP 7
 <a name="item1"></a>
 ## Features:
 * REST API END POINTS
+
   * Get all the records using API
   * Post a Single Record using API.
 -----
