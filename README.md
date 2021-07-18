@@ -22,14 +22,16 @@ Clone this repository and install the dependencies.
 
     $ git clone https://github.com/sinujose007/qapp.git 
     
-To get records , Call get method api with below end point 
+To get records , Call get method api with below end point
+
 	http://127.0.0.1/qapp/public/questions?lang=ar
 	http://127.0.0.1/qapp/public/questions?lang=sp , etc.
 	
 To Store record , Call POST method API with below  end point
+
 	http://127.0.0.1/qapp/public/questions
 	
 Two database source files are used in the system json and csv.
-You can change the config.php to select different data sources.
+You can change the config.php to switch different data sources.
 
 -----
